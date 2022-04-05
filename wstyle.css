@@ -1,0 +1,264 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+#top{
+    background-color:#088a78;
+    width:100%;
+    height:135px;
+}
+#logo{
+    background-color:#088a78;
+    width:5%;
+    height:100px;
+    float:right;
+    margin-top:20px;
+}
+#logo img{
+    width:98%;
+}
+#what{
+    background-color:#088a78;
+    width:180px;
+    height:70px;
+    float:right;
+    margin-top:30px;
+}
+#what h1{
+    color:white;
+    float:right;
+    margin-top:7px;
+    margin-right:17px;
+    font-size:35px;
+}
+#at{
+    background-color:#088a78;
+    width:980px;
+    height:70px;
+    float:right;
+    margin-top:30px;
+}
+#at a{
+    text-decoration: none;
+    float:right;
+    color:white;
+    font-size: 20px;
+    margin-top:28px;
+    margin:20px 20px 20px 20px;
+    margin-right:55px;
+}
+#lan{
+    background-color: #088a78;
+    width:240px;
+    height:70px;
+    float:right;
+    margin-top:30px;
+}
+#lan input{
+    width:45px;
+    float:right;
+    height:35px;
+    margin-top:15px;
+    margin-right:60%;
+    background-color: #088a78;
+    }
+    #con{
+        background-color:white;
+        height:800px;
+    }
+    #box{
+        background-color: white;
+        width:50%;
+        height:100%;
+        float:right;
+        
+    }
+    #box2{
+        background-color: white;
+        width:50%;
+        height:100%;
+        float:right;
+        
+    }
+    #box2 h1{
+        font-size: 50px;
+        margin-top:100px;
+        margin-left:25%;
+    }
+    #box2 h2{
+        font-size: 50px;
+        margin-left:25%;
+    }
+    #box2 h3{
+        margin-top:50px;
+        margin-left:25%;
+        font-size:25px;
+    }
+    #box2 h4{
+        
+        margin-left:25%;
+        font-size:25px;
+    }
+    #box2 h5{
+        
+        margin-left:25%;
+        font-size:25px;
+    }
+    #box2 h6{
+        margin-top:18px;
+        margin-left:24%;
+        font-size:25px;
+    }
+    #box3{
+        background-color: rgb(255, 255, 255);
+        width:20%;
+        height:40px;
+        margin-top:30px;
+        margin-left:23%;
+    }
+    #box4{
+        background-color: rgb(255, 255, 255);
+        width:20%;
+        height:40px;
+        margin-left:23%;
+        
+    }
+    #box5{
+        background-color: rgb(255, 255, 255);
+        width:20%;
+        height:40px;
+        margin-left:23%;
+        
+    }
+    #box3 a{
+        text-decoration: none;
+        color:green;
+        margin-right:45px;
+        font-size: 25px;
+        margin-top:7px;
+        float:right;
+        
+    }
+    #box4 a{
+        text-decoration: none;
+        color:green;
+        margin-right:55px;
+        font-size: 25px;
+        margin-top:7px;
+        float:right;
+    }
+    #box5 a{
+        text-decoration: none;
+        color:green;
+        margin-right:65px;
+        font-size: 25px;
+        margin-top:7px;
+        float:right;
+    }
+    #box img{
+        height:90%;
+        width:50%;
+        margin-left:150px;
+        
+    }
+    #footer{
+        background-color: rgb(255, 255, 255);
+        height:600px;
+        width:100%;
+    }
+    #box8{
+        background-color: rgb(209, 239, 248);
+        width:48%;
+        height:100%;
+        float: right;
+    }
+    
+    #box7{
+        background-color: white;
+        width:4%;
+        height:100%;
+        float:right;
+
+    }
+    #box9{
+        background-color: rgb(209, 239, 248);
+        width:48%;
+        height:100%;
+        float: right;
+    }
+    #box8 h1{
+        font-size:80px;
+        margin-left:80px;
+        margin-top:80px;
+    }
+    #box8 h2{
+        font-size: 25px;;
+        margin-left:80px;
+        margin-top:60px;
+    }
+    #box8 h3{
+        font-size: 25px;;
+        margin-left:80px;
+        
+    }
+    #box8 h4{
+        font-size: 25px;;
+        margin-left:80px;
+        
+    }
+    #box8 h5{
+        font-size: 25px;;
+        margin-left:80px;
+        
+    }
+    #box8 h6{
+        font-size: 25px;;
+        margin-left:80px;
+       
+    }
+    #box9 img{
+        height:70%;
+        margin-left:175px;
+        margin-top:90px;
+    }
+    #boo
+    {
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+        height:100px;
+    }
+    #boo1{
+        border:1px solid green;
+        width:20%;
+        height:60px;
+        margin-right:40%;
+        float: right;
+        margin-top:1.5%;
+        border-radius: 60px;
+    }
+    #boo1 a{
+        text-decoration: none;
+        float: right;
+        color: green;
+        font-size: 32px;
+        margin-top: 2.5%;
+        margin-right: 38px;
+        
+    }
+    #boo1 a:hover{
+        color:black;
+    }
+    #end
+    {
+        background-color: rgb(0, 0, 0);
+        width: 100%;
+        height:100px;
+    }
+    #end h1{
+        color: aliceblue;
+        float: right;
+        margin-right:40%;
+        margin-top:2%;
+    }
+    
